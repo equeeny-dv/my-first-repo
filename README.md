@@ -1,3 +1,3 @@
 # my-first-repo
 bla bla bla
-![profile picture} (img/profilepicture.png)
+![a dummy picture} (img/profilepicture.png)
