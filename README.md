@@ -1,2 +1,2 @@
 # my-first-repo
-![profile picture}(img/profilepicture.png)
+![profile picture](profile%20picture.png)
